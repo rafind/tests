@@ -17,5 +17,9 @@
     "operadora": [
         1467891153,
         1467899999
+    ],
+    "operatoridtest": [
+        "testIP1",
+        "testIP2"
     ]
 }
