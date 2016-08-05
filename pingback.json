@@ -1,18 +1,20 @@
 {
-  "domains" : [
-    "h.facebook.com",
-    "m.facebook.com",
-    "0.facebook.com",
-    "0.internet.org",
-    "*.freebasics.com",
-    "*.playpen*.facebook.com",
-    "i.org",
-    "free.facebook.com",
-    "mobile.facebook.com"
-  ],
-  "include" : [
-    "tigocolombia",
-    "telenorpakistan",
-    "claro-br",
-    "airtel"
-    ]}
+    "domains": [
+        "h.facebook.com",
+        "m.facebook.com",
+        "0.facebook.com",
+        "0.internet.org",
+        "*.freebasics.com",
+        "*.playpen*.facebook.com",
+        "i.org",
+        "free.facebook.com",
+        "mobile.facebook.com"
+    ],
+    "include": [
+        "tigocolombia",
+        "telenorpakistan",
+        "claro-br",
+        "airtel",
+        "zain-iq"
+    ]
+}
