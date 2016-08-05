@@ -12,9 +12,5 @@
     ],
     "include": [
         "tigocolombia",
-        "telenorpakistan",
-        "claro-br",
-        "airtel",
-        "zain-iq"
     ]
 }
