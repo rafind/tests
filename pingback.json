@@ -10,4 +10,9 @@
     "free.facebook.com",
     "mobile.facebook.com"
   ],
-  "include" : []}
+  "include" : [
+    "tigocolombia",
+    "telenorpakistan",
+    "claro-br",
+    "airtel"
+    ]}
