@@ -11,9 +11,5 @@
         "mobile.facebook.com"
     ],
     "include": [
-        "airtel-ng",
-        "orange-mg",
-        "tigocolombia"
-        "zain-iq"
     ]
 }
