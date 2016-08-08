@@ -10,7 +10,5 @@
         "free.facebook.com",
         "mobile.facebook.com"
     ],
-    "include": [
-        "airtel-ng"
-    ]
+    "include": []
 }
