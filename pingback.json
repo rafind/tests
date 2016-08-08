@@ -11,5 +11,6 @@
         "mobile.facebook.com"
     ],
     "include": [
+        "airtel-ng"
     ]
 }
